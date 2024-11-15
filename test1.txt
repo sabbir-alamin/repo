@@ -4,4 +4,4 @@ A line of text.
 I'm learning GitHub from Anis Vai. 
 Anis Vai is a great teacher.
 The required texts have been aligned properly.
-I have solved the issue.
+I have solved the issue
